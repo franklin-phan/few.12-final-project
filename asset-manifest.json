@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/franklin-phan/sfpopos-tutorial/static/css/main.af676ff8.chunk.css",
+    "main.js": "/franklin-phan/sfpopos-tutorial/static/js/main.7d414b26.chunk.js",
+    "main.js.map": "/franklin-phan/sfpopos-tutorial/static/js/main.7d414b26.chunk.js.map",
+    "runtime-main.js": "/franklin-phan/sfpopos-tutorial/static/js/runtime-main.75e4227e.js",
+    "runtime-main.js.map": "/franklin-phan/sfpopos-tutorial/static/js/runtime-main.75e4227e.js.map",
+    "static/js/2.89afaf65.chunk.js": "/franklin-phan/sfpopos-tutorial/static/js/2.89afaf65.chunk.js",
+    "static/js/2.89afaf65.chunk.js.map": "/franklin-phan/sfpopos-tutorial/static/js/2.89afaf65.chunk.js.map",
+    "index.html": "/franklin-phan/sfpopos-tutorial/index.html",
+    "precache-manifest.2ac590b6118abad9f46e8b886ee2a40b.js": "/franklin-phan/sfpopos-tutorial/precache-manifest.2ac590b6118abad9f46e8b886ee2a40b.js",
+    "service-worker.js": "/franklin-phan/sfpopos-tutorial/service-worker.js",
+    "static/css/main.af676ff8.chunk.css.map": "/franklin-phan/sfpopos-tutorial/static/css/main.af676ff8.chunk.css.map",
+    "static/js/2.89afaf65.chunk.js.LICENSE.txt": "/franklin-phan/sfpopos-tutorial/static/js/2.89afaf65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e4227e.js",
+    "static/js/2.89afaf65.chunk.js",
+    "static/css/main.af676ff8.chunk.css",
+    "static/js/main.7d414b26.chunk.js"
+  ]
+}
