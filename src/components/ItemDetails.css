@@ -1,0 +1,20 @@
+.Item {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .Item > img {
+    width: 100%;
+    height: auto;
+  }
+
+  .Nutrition{
+    margin: auto;
+    align-content: center;
+    padding: 2em;
+    width:25%;
+    border-style: solid;
+    border-color: black;
+    color: rgb(17, 0, 248);
+    background-color: rgb(168, 164, 164);
+  }

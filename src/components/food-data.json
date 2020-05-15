@@ -1,0 +1,29 @@
+[
+  {
+     "title":"Bananas",
+     "desc":"Yummy Yellow Fruit",
+     "amount":"3 Bananas",
+     "images":[
+        "bananas.jpg"
+     ]
+
+  },
+  {
+   "title":"Apples",
+   "desc":"Yummy Red Fruit",
+   "amount":"5 Apples",
+   "images":[
+      "apples.jpeg"
+   ]
+
+},
+{
+   "title":"Pears",
+   "desc":"Yummy Green Fruit",
+   "amount":"3 Pears",
+   "images":[
+      "pears.jpeg"
+   ]
+
+}
+]
